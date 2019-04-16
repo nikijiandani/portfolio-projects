@@ -1,0 +1,75 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+.container {
+    margin-left: 18px;
+}
+.nikita-jiandani-copy-3 {
+    height: 72px;
+    width: 119px;
+    color: #000000;
+    font-family: "Patua One";
+    font-size: 32px;
+    letter-spacing: 0.2px;
+    line-height: 36px;
+    margin-top: 24px;
+}
+.rectangle {
+    height: 280px;
+    width: 280px;
+    background-color: #2A2C2E;
+    margin-top: 36px;
+}
+.projects {
+	color: #248700;
+	font-family: "Patua One";
+	font-size: 20px;
+	letter-spacing: 0.25px;
+    margin-top: 24px;
+}
+.content {
+	color: #2A2C2E;
+	font-family: Lato;
+	font-size: 14px;
+	letter-spacing: 0.35px;
+    padding-top: 12px;
+}
+.navbar {
+    height: 39.02px;
+    width: 100%;
+    background-color: #248700;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar a {
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 7px;
+    padding-bottom: 8px;
+}
+.tab {
+    color: #FFFFFF;
+    font-family: "Patua One";
+    font-size: 20px;
+    letter-spacing: 0.25px;
+    line-height: 24px;
+}
+.project-name {
+    margin-top: 16px;
+    color: #248700;
+	font-family: "Patua One";
+	font-size: 16px;
+	letter-spacing: 0.2px;
+	line-height: 20px;
+}
+#last {
+	margin-bottom: 50px;
+}
+#pipe {
+	font-size: 36px;
+	padding-top: 4px;
+}
