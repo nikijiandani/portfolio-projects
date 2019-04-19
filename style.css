@@ -3,7 +3,7 @@
     margin: 0;
   }
 .wrapper {
-    margin-left: 18px;
+    margin: 0 0 100px 18px;
 }
 .nikita-jiandani-copy-3 {
     height: 72px;
@@ -67,12 +67,6 @@
 	letter-spacing: 0.2px;
 	line-height: 20px;
 }
-.margin {
-    margin-left: 40px;
-}
-#last {
-	margin-bottom: 50px;
-}
 #pipe {
 	font-size: 36px;
 	padding-top: 4px;
@@ -110,5 +104,8 @@
     }
     .wrapper {
         margin-left: 32px;
+    }
+    .margin {
+        margin-left: 40px;
     }
 }
