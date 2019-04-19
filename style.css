@@ -74,3 +74,22 @@
 	font-size: 36px;
 	padding-top: 4px;
 }
+@media (min-width: 768px){
+    .nikita-jiandani-copy-3{
+        font-size: 60px;
+        letter-spacing: 0.38px;
+        line-height: 60px;
+    }
+    .projects{
+        font-size: 36px;
+        letter-spacing: 0.45px;
+        line-height: 44px;
+        margin-top: 85px;
+        margin-bottom: 25px;
+    }
+    .content{
+        font-size: 18px;
+        letter-spacing: 0.45px;
+        line-height: 22px;
+    }
+}
