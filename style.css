@@ -3,7 +3,7 @@
     margin: 0;
   }
 .wrapper {
-    margin-left: 33px;
+    margin-left: 18px;
 }
 .nikita-jiandani-copy-3 {
     height: 72px;
@@ -67,6 +67,9 @@
 	letter-spacing: 0.2px;
 	line-height: 20px;
 }
+.margin {
+    margin-left: 40px;
+}
 #last {
 	margin-bottom: 50px;
 }
@@ -74,6 +77,7 @@
 	font-size: 36px;
 	padding-top: 4px;
 }
+/* TABLET */
 @media (min-width: 768px){
     .nikita-jiandani-copy-3{
         font-size: 60px;
@@ -96,5 +100,15 @@
         font-size: 20px;
         letter-spacing: 0.25px;
         line-height: 24px;
+    }
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .tile {
+        flex: 0 1 280px;
+    }
+    .wrapper {
+        margin-left: 32px;
     }
 }
