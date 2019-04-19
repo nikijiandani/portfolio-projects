@@ -113,7 +113,7 @@
         flex: 0 1 280px;
     }
     .wrapper {
-        margin-left: 32px;
+        margin: 0 18px 150px 32px;
     }
     .margin {
         margin-left: 40px;
@@ -124,6 +124,17 @@
         line-height: 22px;
         width: 600px;
     }
+    .navbar {
+		height: 90px;
+		justify-content: flex-start;
+		align-items: center;
+	}
+	.tab {
+		font-size: 36px;
+		letter-spacing: 0.45px;
+		line-height: 44px;
+		margin-left: 32px;
+	}
     #pipe {
 		height: 63px;
 		width: 5px;
