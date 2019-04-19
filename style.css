@@ -116,4 +116,10 @@
     .margin {
         margin-left: 40px;
     }
+    .intro {
+        font-size: 18px;
+        letter-spacing: 0.45px;
+        line-height: 22px;
+        width: 600px;
+    }
 }
