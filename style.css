@@ -15,6 +15,14 @@
     line-height: 36px;
     margin-top: 24px;
 }
+.intro {
+    color: #2A2C2E;
+	font-family: Lato;
+	font-size: 14px;
+	letter-spacing: 0.35px;
+    padding-top: 12px;
+    width: 280px;
+}
 .rectangle {
     height: 280px;
     width: 280px;
