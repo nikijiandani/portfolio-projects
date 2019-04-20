@@ -112,13 +112,13 @@
         font-size: 60px;
         letter-spacing: 0.38px;
         line-height: 60px;
+        margin-left: 40px;
     }
     .projects{
         font-size: 36px;
         letter-spacing: 0.45px;
         line-height: 44px;
-        margin-top: 85px;
-        margin-bottom: 25px;
+        margin: 85px 0 25px 40px;
     }
     .content{
         font-size: 18px;
@@ -136,18 +136,17 @@
     }
     .tile {
         flex: 0 1 280px;
+        margin-left: 40px;
     }
     .wrapper {
-        margin: 0 18px 150px 32px;
-    }
-    .margin {
-        margin-left: 40px;
+        margin: 0 18px 150px 0;
     }
     .intro {
         font-size: 18px;
         letter-spacing: 0.45px;
         line-height: 22px;
         width: 600px;
+        margin-left: 40px;
     }
     .navbar {
 		height: 90px;
