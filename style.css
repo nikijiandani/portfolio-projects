@@ -81,6 +81,30 @@
 	background-color: #FFFFFF;
 	margin-top: 3px;
 }
+/* MOBILE LANDSCAPE */
+@media(min-width: 425px) and (max-width: 768px){
+    .nikita-jiandani-copy-3 {
+        font-size: 42px
+    }
+    .projects {
+        font-size: 28px;
+    }
+    .intro {
+        font-size: 16px;
+        width: 390px;
+    }
+    .rectangle {
+        height: 390px;
+        width: 390px; 
+    }
+    .project-name {
+        font-size: 18px;
+    }
+    .content {
+        font-size: 18px;
+        width: 390px;
+    }
+}
 /* TABLET */
 @media (min-width: 768px){
     .nikita-jiandani-copy-3{
