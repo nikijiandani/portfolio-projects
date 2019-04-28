@@ -9,13 +9,11 @@ font-size: 100%;
     margin: 0 1.125em 6.25em;                  /* 18 */ /* 100 */
 }
 .nikita-jiandani-copy-3 {
-    height: 72px;
-    width: 119px;
     color: #000000;
     font-family: "Patua One";
     font-size: 2em;                            /* 32/16 */
     letter-spacing: 0.2px;
-    line-height: 36px;
+    line-height: 1.125em;                      /* 36 */
     margin-top: 0.75em;                        /* 24 */
 }
 .intro {
@@ -68,7 +66,7 @@ font-size: 100%;
     font-family: "Patua One";
     font-size: 1.25em;                     /* 20/16 */
     letter-spacing: 0.25px;
-    line-height: 24px;
+    line-height: 1.2em;                    /* 24 */
 }
 .project-name {
     margin-top: 1em;                       /* 16 */
@@ -76,7 +74,7 @@ font-size: 100%;
 	font-family: "Patua One";
 	font-size: 1em;                        /* 16/16 */
 	letter-spacing: 0.2px;
-	line-height: 20px;
+	line-height: 1.25em;                   /* 20 */
 }
 #pipe {
 	height: 1.85em;
@@ -114,24 +112,24 @@ font-size: 100%;
     .nikita-jiandani-copy-3{
         font-size: 3.75em;                   /* 60/16 */
         letter-spacing: 0.38px;
-        line-height: 60px;
+        line-height: 1em;                    /* 60 */
         margin-left: 0.66666em;              /* 40 */
     }
     .projects{
         font-size: 2.25em;                   /* 36/16 */
         letter-spacing: 0.45px;
-        line-height: 44px;
+        line-height: 1.2222em;               /* 44 */
         margin: 2.36111em 0 0.694444em 1.11111em;            /* 85 */ /* 25 */ /* 40 */
     }
     .content{
         font-size: 1.125em;                  /* 18/16 */
         letter-spacing: 0.45px;
-        line-height: 22px;
+        line-height: 1.22222em;              /* 22 */
     }
     .project-name{
         font-size: 1.25em;                   /* 20/16 */
         letter-spacing: 0.25px;
-        line-height: 24px;
+        line-height: 1.2em;                  /* 24 */
     }
     .container {
         display: flex;
@@ -147,9 +145,9 @@ font-size: 100%;
     .intro {
         font-size: 1.125em;                   /* 18/16 */
         letter-spacing: 0.45px;
-        line-height: 22px;
+        line-height: 1.22222em;               /* 22 */
         width: 600px;
-        margin-left: 2.22222em;                /* 40 */
+        margin-left: 2.22222em;               /* 40 */
     }
     .navbar {
 		height: 90px;
@@ -159,7 +157,7 @@ font-size: 100%;
 	.tab {
 		font-size: 2.25em;                      /* 36/16 */
 		letter-spacing: 0.45px;
-		line-height: 44px;
+		line-height: 1.22222em;                 /* 44 */
 		margin-left: 0.888888em;                /* 32 */
 	}
     #pipe {
