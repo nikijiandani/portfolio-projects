@@ -20,7 +20,7 @@ font-size: 100%;
 	font-family: Lato;
     font-size: 0.875em;                        /* 14/16 */
     letter-spacing: 0.025em;                   /* 0.35 */
-    padding-top: 12px;
+    padding-top: 0.85714em;                    /* 12 */
     width: 280px;
 }
 .rectangle {
@@ -41,7 +41,7 @@ font-size: 100%;
 	font-family: Lato;
     font-size: 0.875em;                       /* 14/16 */
     letter-spacing: 0.35px;                   /* 0.35 */
-    padding-top: 12px;
+    padding-top: 0.85714em;                   /* 12 */
     width: 280px;
 }
 .navbar {
@@ -57,8 +57,8 @@ font-size: 100%;
 .navbar a {
     display: inline-block;
     text-decoration: none;
-    padding-top: 7px;
-    padding-bottom: 8px;
+    padding-top: 0.35em;                     /* 7 */
+    padding-bottom: 0.4em;                   /* 8 */
 }
 .tab {
     color: #FFFFFF;
