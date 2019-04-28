@@ -6,14 +6,14 @@ body {
 font-size: 100%;
 }
 .wrapper {
-    margin: 0 18px 100px 18px;
+    margin: 0 18px 100px;      
 }
 .nikita-jiandani-copy-3 {
     height: 72px;
     width: 119px;
     color: #000000;
     font-family: "Patua One";
-    font-size: 32px;
+    font-size: 2em;                        /* 32/16 */
     letter-spacing: 0.2px;
     line-height: 36px;
     margin-top: 24px;
@@ -21,7 +21,7 @@ font-size: 100%;
 .intro {
     color: #2A2C2E;
 	font-family: Lato;
-	font-size: 14px;
+	font-size: 0.875em;                    /* 14/16 */
 	letter-spacing: 0.35px;
     padding-top: 12px;
     width: 280px;
@@ -35,14 +35,14 @@ font-size: 100%;
 .projects {
 	color: #248700;
 	font-family: "Patua One";
-	font-size: 20px;
+	font-size: 1.25em;                     /* 20/16 */
 	letter-spacing: 0.25px;
     margin-top: 24px;
 }
 .content {
 	color: #2A2C2E;
 	font-family: Lato;
-	font-size: 14px;
+	font-size: 0.875em;                    /* 14/16 */
 	letter-spacing: 0.35px;
     padding-top: 12px;
     width: 280px;
@@ -66,7 +66,7 @@ font-size: 100%;
 .tab {
     color: #FFFFFF;
     font-family: "Patua One";
-    font-size: 20px;
+    font-size: 1.25em;                      /* 20/16 */
     letter-spacing: 0.25px;
     line-height: 24px;
 }
@@ -74,7 +74,7 @@ font-size: 100%;
     margin-top: 16px;
     color: #248700;
 	font-family: "Patua One";
-	font-size: 16px;
+	font-size: 1em;                        /* 16/16 */
 	letter-spacing: 0.2px;
 	line-height: 20px;
 }
@@ -87,13 +87,13 @@ font-size: 100%;
 /* MOBILE LANDSCAPE */
 @media(min-width: 425px) and (max-width: 767px){
     .nikita-jiandani-copy-3 {
-        font-size: 42px
+        font-size: 2.625em;                /* 42/16 */
     }
     .projects {
-        font-size: 28px;
+        font-size: 1.75em;                 /* 28/16 */
     }
     .intro {
-        font-size: 16px;
+        font-size: 1em;                    /* 16/16 */
         width: 390px;
     }
     .rectangle {
@@ -102,34 +102,34 @@ font-size: 100%;
         margin-top: 58px;
     }
     .project-name {
-        font-size: 18px;
+        font-size: 1.125em;                 /* 18/16 */
     }
     .content {
-        font-size: 16px;
+        font-size: 1em;                     /* 16/16 */
         width: 390px;
     }
 }
 /* TABLET */
 @media (min-width: 768px){
     .nikita-jiandani-copy-3{
-        font-size: 60px;
+        font-size: 3.75em;                  /* 60/16 */
         letter-spacing: 0.38px;
         line-height: 60px;
         margin-left: 40px;
     }
     .projects{
-        font-size: 36px;
+        font-size: 2.25em;                   /* 36/16 */
         letter-spacing: 0.45px;
         line-height: 44px;
         margin: 85px 0 25px 40px;
     }
     .content{
-        font-size: 18px;
+        font-size: 1.125em;                  /* 18/16 */
         letter-spacing: 0.45px;
         line-height: 22px;
     }
     .project-name{
-        font-size: 20px;
+        font-size: 1.25em;                   /* 20/16 */
         letter-spacing: 0.25px;
         line-height: 24px;
     }
@@ -145,7 +145,7 @@ font-size: 100%;
         margin: 0 18px 150px 0;
     }
     .intro {
-        font-size: 18px;
+        font-size: 1.125em;                   /* 18/16 */
         letter-spacing: 0.45px;
         line-height: 22px;
         width: 600px;
@@ -157,7 +157,7 @@ font-size: 100%;
 		align-items: center;
 	}
 	.tab {
-		font-size: 36px;
+		font-size: 2.25em;                      /* 36/16 */
 		letter-spacing: 0.45px;
 		line-height: 44px;
 		margin-left: 32px;
