@@ -53,6 +53,11 @@ font-size: 100%;
     background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.pOoJoe.fc92b5fb-2038-4527-a55a-efe9f08c3404.png);
     background-size: cover;
 }
+.survey {
+    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.MqgvKK.9703e92b-c98a-455a-8da6-06fcab7a56e0.png);
+    background-position: 25% 50%; 
+    background-size: cover;
+}
 .projects {
 	color: #248700;
 	font-family: "Patua One";
