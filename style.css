@@ -29,6 +29,11 @@ font-size: 100%;
     background-color: #2A2C2E;
     margin-top: 3em;                          /* 48/16 */
 }
+.yelpcamp {
+    background-image: url(https://user-images.githubusercontent.com/35053952/45183323-c5e2a600-b1f1-11e8-9006-6fa7f487f003.png);
+    background-position: center;
+    background-size: cover;
+}
 .projects {
 	color: #248700;
 	font-family: "Patua One";
