@@ -34,6 +34,11 @@ font-size: 100%;
     background-position: center;
     background-size: cover;
 }
+.rgb {
+    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.dmGMdy.e0f17823-e73e-48cf-af33-ecab50133198.png);
+    background-position: center;
+    background-size: cover;
+}
 .projects {
 	color: #248700;
 	font-family: "Patua One";
