@@ -49,6 +49,10 @@ font-size: 100%;
     background-position: center;
     background-size: cover;
 }
+.mihome {
+    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.pOoJoe.fc92b5fb-2038-4527-a55a-efe9f08c3404.png);
+    background-size: cover;
+}
 .projects {
 	color: #248700;
 	font-family: "Patua One";
