@@ -5,6 +5,10 @@
 body {
 font-size: 100%;
 }
+h3 a {
+    text-decoration: none;
+    color: #248700;
+}
 .wrapper {
     margin: 0 1.125em 6.25em;                  /* 18 */ /* 100 */
 }
@@ -97,7 +101,6 @@ font-size: 100%;
 }
 .project-name {
     margin-top: 1em;                       /* 16 */
-    color: #248700;
 	font-family: "Patua One";
 	font-size: 1em;                        /* 16/16 */
 	line-height: 1.25em;                   /* 20 */
