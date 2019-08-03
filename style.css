@@ -24,6 +24,7 @@ h3 a {
     width: 17.5em;                             /* 280 */
     background-color: #2A2C2E;
     margin-top: 3em;                          /* 48/16 */
+    box-shadow: 2px 5px 10px #cfcdcd;
 }
 .typeracer {
     background-image: url(https://github.com/nikijiandani/my-typer-racer/raw/master/public/screenshots/game_demo.gif);
