@@ -19,19 +19,26 @@ h3 a {
     line-height: 1.125em;                      /* 36 */
     margin-top: 0.75em;                        /* 24 */
 }
-.intro {
-    color: #2A2C2E;
-	font-family: Lato;
-    font-size: 0.875em;                        /* 14/16 */
-    letter-spacing: 0.025em;                   /* 0.35 */
-    padding-top: 0.85714em;                    /* 12 */
-    width: 20em;                               /* 280 */
-}
 .rectangle {
     height: 17.5em;                            /* 280 */
     width: 17.5em;                             /* 280 */
     background-color: #2A2C2E;
     margin-top: 3em;                          /* 48/16 */
+}
+.typeracer {
+    background-image: url(https://github.com/nikijiandani/my-typer-racer/raw/master/public/screenshots/game_demo.gif);
+    background-position: 0% 80%;
+    background-size: cover;
+}
+.urlpetit {
+    background-image: url(https://github.com/nikijiandani/URLpet.it/raw/master/public/screenshots/url_show.png);
+    background-position: center;
+    background-size: cover;
+}
+.crittersitter {
+    background-image: url(https://github.com/nikijiandani/critter-sitter-app/raw/master/public/screenshots/landing_page_screenshot.png);
+    background-position: center;
+    background-size: cover;
 }
 .yelpcamp {
     background-image: url(https://user-images.githubusercontent.com/35053952/45183323-c5e2a600-b1f1-11e8-9006-6fa7f487f003.png);
@@ -119,10 +126,6 @@ h3 a {
     .projects {
         font-size: 1.75em;                 /* 28/16 */
     }
-    .intro {
-        font-size: 1em;                    /* 16/16 */
-        width: 24.375em;                   /* 390 */
-    }
     .rectangle {
         height: 24.375em;                   /* 390 */
         width: 24.375em;                    /* 390 */
@@ -172,13 +175,6 @@ h3 a {
     .wrapper {
         margin: 0 1.125em 9.375em 0;          /* 18 */ /* 150 */
     }
-    .intro {
-        font-size: 1.125em;                   /* 18/16 */
-        letter-spacing: 0.025em;              /* 0.45 */
-        line-height: 1.22222em;               /* 22 */
-        width: 33.3333em;                     /* 600 */
-        margin-left: 2.22222em;               /* 40 */
-    }
     .navbar {
 		height: 5.625em;                      /* 90 */
 		justify-content: flex-start;
@@ -198,7 +194,7 @@ h3 a {
 /* LAPTOP */
 @media (min-width: 1024px){
     .projects{
-        margin: 3.05555em 0 0 1.11111em;        /* 110 */ /* 40 */
+        margin: 2em 0 0 1.11111em;  
     }
     .rectangle {
         margin-top: 2.625em;                    /* 42 */
