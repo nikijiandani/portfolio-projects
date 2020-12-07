@@ -1,208 +1,209 @@
 * {
-    padding: 0;
-    margin: 0;
-  }
+	padding: 0;
+	margin: 0;
+}
 body {
-font-size: 100%;
+	font-size: 100%;
 }
 h3 a {
-    text-decoration: none;
-    color: #248700;
+	text-decoration: none;
+	color: #248700;
 }
 .wrapper {
-    margin: 0 1.125em 6.25em;                  /* 18 */ /* 100 */
+	margin: 0 1.125em 6.25em; /* 18 */ /* 100 */
 }
 .nikita-jiandani-copy-3 {
-    color: #000000;
-    font-family: "Patua One";
-    font-size: 2em;                            /* 32/16 */
-    line-height: 1.125em;                      /* 36 */
-    margin-top: 0.75em;                        /* 24 */
+	color: #000000;
+	font-family: 'Patua One';
+	font-size: 2em; /* 32/16 */
+	line-height: 1.125em; /* 36 */
+	margin-top: 0.75em; /* 24 */
 }
 .rectangle {
-    height: 17.5em;                            /* 280 */
-    width: 17.5em;                             /* 280 */
-    background-color: #2A2C2E;
-    margin-top: 3em;                          /* 48/16 */
-    box-shadow: 2px 5px 10px #cfcdcd;
+	height: 17.5em; /* 280 */
+	width: 17.5em; /* 280 */
+	background-color: #2a2c2e;
+	margin-top: 3em; /* 48/16 */
+	box-shadow: 2px 5px 10px #cfcdcd;
+}
+.scheduler-app {
+	background-image: url('./assets/scheduler-app.png');
+	background-position: center;
+	background-size: cover;
 }
 .typeracer {
-    background-image: url(https://github.com/nikijiandani/my-typer-racer/raw/master/public/screenshots/game_demo.gif);
-    background-position: 0% 80%;
-    background-size: cover;
+	background-image: url(https://github.com/nikijiandani/my-typer-racer/raw/master/public/screenshots/game_demo.gif);
+	background-position: 0% 80%;
+	background-size: cover;
 }
 .urlpetit {
-    background-image: url(https://github.com/nikijiandani/URLpet.it/raw/master/public/screenshots/url_show.png);
-    background-position: center;
-    background-size: cover;
+	background-image: url(https://github.com/nikijiandani/URLpet.it/raw/master/public/screenshots/url_show.png);
+	background-position: center;
+	background-size: cover;
 }
 .crittersitter {
-    background-image: url(https://github.com/nikijiandani/critter-sitter-app/raw/master/public/screenshots/landing_page_screenshot.png);
-    background-position: center;
-    background-size: cover;
+	background-image: url(https://github.com/nikijiandani/critter-sitter-app/raw/master/public/screenshots/landing_page_screenshot.png);
+	background-position: center;
+	background-size: cover;
 }
 .yelpcamp {
-    background-image: url(https://user-images.githubusercontent.com/35053952/45183323-c5e2a600-b1f1-11e8-9006-6fa7f487f003.png);
-    background-position: center;
-    background-size: cover;
+	background-image: url(https://user-images.githubusercontent.com/35053952/45183323-c5e2a600-b1f1-11e8-9006-6fa7f487f003.png);
+	background-position: center;
+	background-size: cover;
 }
 .rgb {
-    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.dmGMdy.e0f17823-e73e-48cf-af33-ecab50133198.png);
-    background-position: center;
-    background-size: cover;
+	background-image: url('./assets/rgb-game.gif');
+	background-position: center;
+	background-size: cover;
 }
 .tribute {
-    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.wyvJZG.a3726e91-66aa-4eb1-af0f-cf0cc2fd1b46.png);
-    background-position: center;
-    background-size: cover;
+	background-image: url('./assets/tribute-page.png');
+	background-position: center;
+	background-size: cover;
 }
 .landing {
-    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.RQaGaR.a0a16b1a-5ce6-410a-a0a1-e6b15db885e9.png);
-    background-position: center;
-    background-size: cover;
-}
-.mihome {
-    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.pOoJoe.fc92b5fb-2038-4527-a55a-efe9f08c3404.png);
-    background-size: cover;
+	background-image: url('./assets/landing-page.png');
+	background-position: center;
+	background-size: cover;
 }
 .survey {
-    background-image: url(https://s3-us-west-2.amazonaws.com/i.cdpn.io/1669749.MqgvKK.9703e92b-c98a-455a-8da6-06fcab7a56e0.png);
-    background-position: 25% 50%; 
-    background-size: cover;
+	background-image: url('./assets/survey-form.png');
+	background-position: 25% 50%;
+	background-size: cover;
 }
 .projects {
 	color: #248700;
-	font-family: "Patua One";
-    font-size: 1.25em;                        /* 20/16 */
-    letter-spacing: 0.0125em;                 /* 0.25 */
-    margin-top: 1.2em;                        /* 24 */
+	font-family: 'Patua One';
+	font-size: 1.25em; /* 20/16 */
+	letter-spacing: 0.0125em; /* 0.25 */
+	margin-top: 1.2em; /* 24 */
 }
 .content {
-	color: #2A2C2E;
+	color: #2a2c2e;
 	font-family: Lato;
-    font-size: 0.875em;                       /* 14/16 */
-    letter-spacing: 0.025em;                  /* 0.35 */
-    padding-top: 0.85714em;                   /* 12 */
-    width: 20em;                              /* 280 */
+	font-size: 0.875em; /* 14/16 */
+	letter-spacing: 0.025em; /* 0.35 */
+	padding-top: 0.85714em; /* 12 */
+	width: 20em; /* 280 */
 }
 .navbar {
-    height: 2.43875em;                        /* 39.02 */
-    width: 100%;
-    background-color: #248700;
-    bottom: 0;
-    position: fixed;
-    text-align: center;
-    display: flex;
-    justify-content: space-evenly;
+	height: 2.43875em; /* 39.02 */
+	width: 100%;
+	background-color: #248700;
+	bottom: 0;
+	position: fixed;
+	text-align: center;
+	display: flex;
+	justify-content: space-evenly;
 }
 .navbar a {
-    display: inline-block;
-    text-decoration: none;
-    padding-top: 0.35em;                     /* 7 */
-    padding-bottom: 0.4em;                   /* 8 */
+	display: inline-block;
+	text-decoration: none;
+	padding-top: 0.35em; /* 7 */
+	padding-bottom: 0.4em; /* 8 */
 }
 .tab {
-    color: #FFFFFF;
-    font-family: "Patua One";
-    font-size: 1.25em;                     /* 20/16 */
-    line-height: 1.2em;                    /* 24 */
+	color: #ffffff;
+	font-family: 'Patua One';
+	font-size: 1.25em; /* 20/16 */
+	line-height: 1.2em; /* 24 */
 }
 .project-name {
-    margin-top: 1em;                       /* 16 */
-	font-family: "Patua One";
-	font-size: 1em;                        /* 16/16 */
-	line-height: 1.25em;                   /* 20 */
+	margin-top: 1em; /* 16 */
+	font-family: 'Patua One';
+	font-size: 1em; /* 16/16 */
+	line-height: 1.25em; /* 20 */
 }
 #pipe {
 	height: 1.85em;
 	width: 0.165em;
-	background-color: #FFFFFF;
-	margin-top: 0.05em;                     /* 1 */ 
+	background-color: #ffffff;
+	margin-top: 0.05em; /* 1 */
 }
 /* MOBILE LANDSCAPE */
-@media(min-width: 425px) and (max-width: 767px){
-    .nikita-jiandani-copy-3 {
-        font-size: 2.625em;                /* 42/16 */
-    }
-    .projects {
-        font-size: 1.75em;                 /* 28/16 */
-    }
-    .rectangle {
-        height: 24.375em;                   /* 390 */
-        width: 24.375em;                    /* 390 */
-        margin-top: 3.625em;                /* 58 */
-    }
-    .project-name {
-        font-size: 1.125em;                 /* 18/16 */
-    }
-    .content {
-        font-size: 1em;                     /* 16/16 */
-        width: 24.375em;                    /* 390 */
-    }
+@media (min-width: 425px) and (max-width: 767px) {
+	.nikita-jiandani-copy-3 {
+		font-size: 2.625em; /* 42/16 */
+	}
+	.projects {
+		font-size: 1.75em; /* 28/16 */
+	}
+	.rectangle {
+		height: 24.375em; /* 390 */
+		width: 24.375em; /* 390 */
+		margin-top: 3.625em; /* 58 */
+	}
+	.project-name {
+		font-size: 1.125em; /* 18/16 */
+	}
+	.content {
+		font-size: 1em; /* 16/16 */
+		width: 24.375em; /* 390 */
+	}
 }
 /* TABLET */
-@media (min-width: 768px){
-    .nikita-jiandani-copy-3{
-        font-size: 3.75em;                   /* 60/16 */
-        letter-spacing: 0.006333em;          /* 0.38 */
-        line-height: 1em;                    /* 60 */
-        margin-left: 0.66666em;              /* 40 */
-    }
-    .projects{
-        font-size: 2.25em;                   /* 36/16 */
-        letter-spacing: 0.0125em;            /* 0.45 */
-        line-height: 1.2222em;               /* 44 */
-        margin: 2.36111em 0 0.694444em 1.11111em;            /* 85 */ /* 25 */ /* 40 */
-    }
-    .content{
-        font-size: 1.125em;                  /* 18/16 */
-        letter-spacing: 0.025em;             /* 0.45 */
-        line-height: 1.22222em;              /* 22 */
-        width: 15.5555em;                    /* 280 */
-    }
-    .project-name{
-        font-size: 1.25em;                   /* 20/16 */
-        letter-spacing: 0.0125em;            /* 0.25 */
-        line-height: 1.2em;                  /* 24 */
-    }
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .tile {
-        flex: 0 1 17.5em;                     /* 280 */
-        margin-left: 2.5em;                   /* 40 */
-    }
-    .wrapper {
-        margin: 0 1.125em 9.375em 0;          /* 18 */ /* 150 */
-    }
-    .navbar {
-		height: 5.625em;                      /* 90 */
+@media (min-width: 768px) {
+	.nikita-jiandani-copy-3 {
+		font-size: 3.75em; /* 60/16 */
+		letter-spacing: 0.006333em; /* 0.38 */
+		line-height: 1em; /* 60 */
+		margin-left: 0.66666em; /* 40 */
+	}
+	.projects {
+		font-size: 2.25em; /* 36/16 */
+		letter-spacing: 0.0125em; /* 0.45 */
+		line-height: 1.2222em; /* 44 */
+		margin: 2.36111em 0 0.694444em 1.11111em; /* 85 */ /* 25 */ /* 40 */
+	}
+	.content {
+		font-size: 1.125em; /* 18/16 */
+		letter-spacing: 0.025em; /* 0.45 */
+		line-height: 1.22222em; /* 22 */
+		width: 15.5555em; /* 280 */
+	}
+	.project-name {
+		font-size: 1.25em; /* 20/16 */
+		letter-spacing: 0.0125em; /* 0.25 */
+		line-height: 1.2em; /* 24 */
+	}
+	.container {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.tile {
+		flex: 0 1 17.5em; /* 280 */
+		margin-left: 2.5em; /* 40 */
+	}
+	.wrapper {
+		margin: 0 1.125em 9.375em 0; /* 18 */ /* 150 */
+	}
+	.navbar {
+		height: 5.625em; /* 90 */
 		justify-content: flex-start;
 		align-items: center;
 	}
 	.tab {
-		font-size: 2.25em;                      /* 36/16 */
-		letter-spacing: 0.0125em;               /* 0.45 */
-		line-height: 1.22222em;                 /* 44 */
-		margin-left: 0.888888em;                /* 32 */
+		font-size: 2.25em; /* 36/16 */
+		letter-spacing: 0.0125em; /* 0.45 */
+		line-height: 1.22222em; /* 44 */
+		margin-left: 0.888888em; /* 32 */
 	}
-    #pipe {
+	#pipe {
 		height: 1.75em;
 		width: 0.15em;
 	}
 }
 /* LAPTOP */
-@media (min-width: 1024px){
-    .projects{
-        margin: 2em 0 0 1.11111em;  
-    }
-    .rectangle {
-        margin-top: 2.625em;                    /* 42 */
-        width: 25em;                            /* 400 */
-        height: 25em;                           /* 400 */
-    }
-    .content {
-        width: 22.222em;                        /* 400 */
-    }
+@media (min-width: 1024px) {
+	.projects {
+		margin: 2em 0 0 1.11111em;
+	}
+	.rectangle {
+		margin-top: 2.625em; /* 42 */
+		width: 25em; /* 400 */
+		height: 25em; /* 400 */
+	}
+	.content {
+		width: 22.222em; /* 400 */
+	}
 }
